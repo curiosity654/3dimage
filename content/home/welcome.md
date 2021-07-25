@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: h42.jpg
+    image: h9.jpg
 hero_media: welcome.jpg
 ---
 <br>
