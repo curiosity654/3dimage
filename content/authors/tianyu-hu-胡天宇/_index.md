@@ -1,12 +1,13 @@
 ---
+title: Tianyu Hu (胡天宇)
+role: Associate Professor
+avatar_filename: 图片-1.png
 organizations:
   - name: University of Science and Technology Beijing
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Tianyu Hu (胡天宇)
-role: Associate Professor
 bio: ""
 interests:
   - Artificial Intelligence
@@ -18,6 +19,6 @@ education:
 email: tianyu@ustb.edu.cn
 user_groups: []
 ---
-Tianyu Hu is a postdoctoral lecturer of School of Computer and Communication Engineering, University of Science and Technology Beijing.
+Tianyu Hu is a postdoctoral lecturer of the School of Computer and Communication Engineering, University of Science and Technology Beijing.
 
-His research interests include general artificial intelligence, optimization, mathematical logic, and game theor
+His research interests include general artificial intelligence, optimization, mathematical logic, and game theory
