@@ -6,7 +6,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Tianyu Hu (胡天宇)
-role: ""
+role: Associate Professor
 bio: ""
 interests:
   - Artificial Intelligence
