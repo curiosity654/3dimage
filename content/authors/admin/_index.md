@@ -1,7 +1,7 @@
 ---
 title: Huimin Ma (马惠敏)
 role: Director , Professor
-avatar_filename: huiminma.jpeg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social: []
