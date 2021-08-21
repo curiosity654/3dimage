@@ -3,6 +3,7 @@ widget: index
 widget_id: index
 headless: true
 weight: 10
+title: This is a title
 active: true
 design:
   columns: "2"
