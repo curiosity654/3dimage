@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: contact.jpg
 hero_media: welcome.jpg
 ---
 placeholder for lab intro
