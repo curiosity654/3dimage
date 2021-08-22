@@ -13,7 +13,7 @@ education:
 email: mhmpub@ustb.edu.cn
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 highlight_name: false
 ---
 Huimin Ma is an associate professor of Department of Electronic Engineering of Tsinghua University, and the director of 3D Image Lab. She worked as a visiting scholar in University of Pittsburgh in 2011. She is also the secretary-general of China Society of Image and Graphics.\
