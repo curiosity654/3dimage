@@ -1,7 +1,7 @@
 ---
 title: Songchao Tan（谭颂超）
 role: Lecturer
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
