@@ -1,7 +1,7 @@
 ---
 title: Bochao Zou (邹博超)
 role: Lecturer
-avatar_filename: ""
+avatar_filename: bochaozou.jpg
 bio: ""
 interests:
   - Artificial Intelligence
