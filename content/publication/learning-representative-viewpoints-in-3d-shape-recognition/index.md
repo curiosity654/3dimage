@@ -5,10 +5,11 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Huazhen Chu，Chao Le
-  - Rongquan Wang
+  - HuaZhen Chu (储华珍)
+  - Le Chao
+  - Rongquan Wang (王荣全)
   - Xi Li
-  - Huimin Ma
+  - Huimin Ma (马惠敏)
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -33,7 +34,7 @@ image:
   preview_only: false
 date: 2021-08-22T16:08:22.422Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
