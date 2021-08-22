@@ -1,7 +1,7 @@
 ---
 title: Rongquan Wang (王荣全)
 role: Associate Professor
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
